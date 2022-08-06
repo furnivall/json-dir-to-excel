@@ -22,4 +22,9 @@ e.g. an input of the following, in a file called **json-file.json**:
 ```
 
 The above file will produce the following excel sheet:
+
 ![img_1.png](img_1.png)
+
+```
+todo: handle numeric types.
+```
