@@ -5,7 +5,7 @@ from tkinter.filedialog import askdirectory, asksaveasfilename
 
 path = askdirectory(initialdir="~")
 finalData = []
-cols = ['List Type', 'Variable Name', 'English']
+cols = ['Filename', 'Key', 'Value']
 
 def handle_data_types(filename, key, value):
     match value:
